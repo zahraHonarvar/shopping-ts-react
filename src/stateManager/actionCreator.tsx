@@ -20,7 +20,7 @@ interface TypeAdd {
 }
 interface SelectItem {
   type: string;
-  payload: string;
+  payload: String;
 }
 interface ItemsModel {
   id: string;
